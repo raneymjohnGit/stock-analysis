@@ -44,22 +44,22 @@ Deliverable 1: Refactor VBA Code and Measure Performance
 
 
 ### Analysis of All stocks for the year 2017
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 #### Time taken for Refactored code 
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/Refactored_VBA_Challenge_2017_TimeTaken.png)
 
 #### Time taken for Original code 
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/Green_Stocks_2017_TimeTaken.png)
 
 ### Analysis of All stocks for the year 2018
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 #### Time taken for Refactored code 
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/Refactored_VBA_Challenge_2018_TimeTaken.png)
 
 #### Time taken for Original  code 
-![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/raneymjohnGit/stock-analysis/blob/main/Resources/Green_Stocks_2018_TimeTaken.png)
 
 ### Challenges and Difficulties Encountered
 
